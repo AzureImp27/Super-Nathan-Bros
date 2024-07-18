@@ -1,36 +1,33 @@
 
-# **Super Mario Phaser**
+# **Super Nathan Phaser**
 
-Super Mario Phaser is a recreation of the classic Super Mario Bros game using the Phaser framework. This project aims to bring the nostalgic experience of playing the iconic platformer to modern web browsers. One exciting feature of this game is the random level generation, which ensures that each playthrough offers a unique and challenging experience.
+Super Mario Phaser es una recreación del clásico juego Super Mario Bros utilizando el marco Phaser. Este proyecto tiene como objetivo llevar la experiencia nostálgica de jugar el icónico juego de plataformas a los navegadores web modernos. Una característica interesante de este juego es la generación aleatoria de niveles, que garantiza que cada partida ofrezca una experiencia única y desafiante.
 
+## **Tabla de Contenidos**
 
-## **Table of Contents**
+- [Controles](#Controls)
+- [Licencia](#License)
 
-- [Demo](#Demo)
-- [Controls](#Controls)
-- [Contributing](#Contributing)
-- [License](#License)
-
-Some screenshots of the game:
+Algunas capturas del juego:
 
 ![Level Gameplay](assets/showcase/level-gameplay.gif)
 
-![Level Start](assets/showcase/level-start.gif)
+![Inicio del Nivel](assets/showcase/level-start.gif)
 
-![Level End](assets/showcase/level-end.gif)
+![Final del Nivel](assets/showcase/level-end.gif)
 
-![Settings Screen](assets/showcase/settings-screen.png)
+![Pantalla de Configuraciones](assets/showcase/settings-screen.png)
 
-### Controls
+### Controles
 
-Controls are fully customizable, however default controls are:
+Controls are totalmente personalizables, de todas formas los controles por defecto son:
 
-**Jump:** SPACE
+**Saltar:** ESPACIO
 
-**Move Left:** A
+**Moverse a la Izquierda:** A
 
-**Move Right:** D
+**Moverse a la derecha:** D
 
-**Crouch:** S
+**Agacharse:** S
 
-**Fire:** Q
+**Disparar:** Q
