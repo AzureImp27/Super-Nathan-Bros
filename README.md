@@ -38,7 +38,3 @@ Controls are fully customizable, however default controls are:
 **Crouch:** S
 
 **Fire:** Q
-
-### Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to adhere to the existing code style and follow the established guidelines.
