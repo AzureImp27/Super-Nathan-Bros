@@ -1,5 +1,5 @@
 
-# **Super Nathan Phaser**
+# **Super Mario Phaser**
 
 Super Mario Phaser es una recreación del clásico juego Super Mario Bros utilizando el marco Phaser. Este proyecto tiene como objetivo llevar la experiencia nostálgica de jugar el icónico juego de plataformas a los navegadores web modernos. Una característica interesante de este juego es la generación aleatoria de niveles, que garantiza que cada partida ofrezca una experiencia única y desafiante.
 
